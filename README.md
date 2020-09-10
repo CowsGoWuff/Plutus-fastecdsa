@@ -2,12 +2,6 @@
 
 An automated Bitcoin wallet collider that brute forces random wallet addresses 50% faster!
 
-# Like This Project? Why not donate:
-
-```
-1AE49AcJKLYd3XCgLdHaSGyZGVLeR8Pzo7
-```
-
 # Dependencies
 
 <a href="https://www.python.org/downloads/">Python 3.6</a> or higher
@@ -19,7 +13,7 @@ Minimum <a href="#memory-consumption">RAM requirements</a>
 # Installation
 
 ```
-$ git clone https://github.com/imcmurray/Plutus-fastecdsa.git
+$ git clone https://github.com/CowsGoWuff/Plutus-fastecdsa.git
 
 $ cd Plutus-fastecdsa && pip3 install -r requirements.txt
 ```
